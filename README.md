@@ -1,2 +1,2 @@
 # realtheme
-real estate
+Bootstrap Project 2
